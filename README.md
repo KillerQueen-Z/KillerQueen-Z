@@ -18,26 +18,23 @@
 
 Electrical Engineering M.S. student at **USC**, deep-focused on the intersection of
 **Machine Learning · NLP · Distributed Computing**. Driven by scaling intelligent
-systems and optimizing how LLMs interact with real-world data.
+systems and optimizing how LLMs interact with real-world data — from research
+on robust fine-tuning to production infra for autonomous agents.
 
-Currently shipping **[Franklin](https://github.com/BlockRunAI/Franklin)** and
-**[ClawRouter](https://github.com/BlockRunAI/ClawRouter)** at **[@BlockRunAI](https://github.com/BlockRunAI)** —
-AI agents that pay per call in USDC over x402 / Base. TypeScript by day,
-PyTorch by night, gamer always.
+PyTorch by night, TypeScript by day. Queen fan, gamer, anime-loving caffeine engine.
 
-## 🚀 Currently Working On
+## 🎯 What I'm Into
 
-- **[Franklin](https://github.com/BlockRunAI/Franklin)** — open-source AI coding agent with a native wallet, 41+ models, pay-per-request in USDC
-- **[ClawRouter](https://github.com/BlockRunAI/ClawRouter)** — smart LLM router that cuts inference cost 40–92% by routing to the cheapest capable model
-- **[BlockRun MCP](https://github.com/BlockRunAI/blockrun-mcp)** — live market / research / social data for AI agents, plugs straight into Claude Code
+- **LLM post-training** — robust fine-tuning, distillation, mitigating catastrophic forgetting
+- **Inference systems** — smart routing, cost-aware serving, distributed throughput
+- **Agent infrastructure** — autonomous agents that can plan, transact, and self-direct
+- **Recommender systems** — using LLMs as zero-shot rankers
 
-## 🔬 Experience
+## 💼 Experience
 
-- **ML Engineer Intern** @ [BlockRun.AI](https://blockrun.ai) &nbsp;·&nbsp; May 2026 – Present
 - **Research Assistant** @ USC FORTIS Lab &nbsp;·&nbsp; Aug 2025 – Present
+- **ML Engineer Intern** @ [BlockRun.AI](https://blockrun.ai) &nbsp;·&nbsp; May 2026 – Present
 - **Algorithm Intern** @ Alibaba Cloud &nbsp;·&nbsp; Jun 2024 – Jul 2025 &nbsp;·&nbsp; Hangzhou
-
-**Interests:** LLM post-training & robust fine-tuning · LLMs for retrieval and ranking · distributed inference and routing
 
 ## 🛠 Stack
 
